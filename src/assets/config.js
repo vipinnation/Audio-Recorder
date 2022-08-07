@@ -1,0 +1,1 @@
+export const API_URL = 'https://olive-andriod.herokuapp.com/api/v1'
